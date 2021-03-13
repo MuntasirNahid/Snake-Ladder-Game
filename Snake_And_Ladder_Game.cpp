@@ -28,7 +28,7 @@ int main()
 	draw_line(50, '=');
 	cout << "\n\nFisrt Player Name :";
 	gets(p1name);
-	cout << "\n\nSecond Player Name :";
+	cout << "\nSecond Player Name :";
 	gets(p2name);
 	while (player1 < 100 && player2 < 100)
 	{
